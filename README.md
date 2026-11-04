@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./build/icon.png" width="140" height="140" alt="MeeBI Logo" />
+<img src="./icon-512.png" width="140" height="140" alt="MeeBI Logo" />
 
 # MeeBI 2.0 
 ### **The Unified Offline Analytics Super-App**
